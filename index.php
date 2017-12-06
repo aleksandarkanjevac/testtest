@@ -4,13 +4,10 @@
 
 <head>
 
-    <title>Addressbook OOP MVC</title>
+    <title>Test</title>
 
-
-    <link href='https://fonts.googleapis.com/css?family=Cuprum' rel='stylesheet'>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-    <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
